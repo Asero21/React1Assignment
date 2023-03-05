@@ -1,0 +1,12 @@
+.Content-div{
+    background-color: lightblue;
+    height: 256px;
+}
+.Header-div{
+    background-color: pink;
+    height: 256px;
+}
+.Footer-div{
+    background-color: orange;
+    height: 256px;
+}
